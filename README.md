@@ -4,6 +4,12 @@ An automated, AI-driven version of the classic Cluedo board game built with Pyth
 
 The project simulates a complete game of Cluedo using autonomous player agents that move around a virtual mansion, make accusations, learn from other players, update their knowledge, and continue playing until one agent correctly solves the mystery.
 
+## Game Interface
+
+![Cluedo AI Game Board](images/cluedo_game_board.png)
+
+The Pygame interface visualizes the mansion game board, player positions, mystery information, and round-by-round activity as the autonomous agents attempt to solve the murder.
+
 ## Project Overview
 
 This project was developed as part of CS 670: Artificial Intelligence.
